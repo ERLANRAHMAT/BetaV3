@@ -327,9 +327,9 @@ Instagram : @Fandyyy._
 //MENU AWAL
 exports.smenu = (pushname, namabot) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *${namabot}* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
+Saya Adalah *${namabot}* Yang Dibuat Oleh Lann Ofc Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
 
-Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
+Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger Sehingga Bisa On 24 Jam Tanpa Sinyal Internet/Wifi.
 
 Jadi Jika Menemukan Bug Silahkan Laporkan Kepada Owner
 Atau Creator Agar Segera Di Fix 🤗
