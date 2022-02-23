@@ -1,23 +1,53 @@
 exports.sewa = () => {
-	return`🇸 🇪 🇼 🇦  🇧 🇴 🇹 ❗
+	return`╭─ [ 🇸 🇪 🇼 🇦  🇧 🇴 🇹  ]
+╭─────────
+│ *❏ >12k : PERMANEN*
+    *❏ >5k:1 minggu*
+    *❏ >7k:1bulan*
+     *❏ Mau Test dulu boleh 1 jam*
+╰─────────
+*SISTEM : BOT MASUK GROUP>TF>DONE*
+╭─────────
+│ *❏<> BOT ON 24JAM*
+│ *❏<> ANTILINK*
+│ *❏<> WELCOME IMAGE*
+│ *❏<> TUTUP/BUKA GC*
+│ *❏<>  KICK ORANG*
+ |  *❏<> SHARE LINK AUTO KICK*
+ |  *❏<> DAN RATUSAN FITUR LAINNYA*
+╰─────────
+*⏰BOT ON 24JAM⏰*
+*🚀BOT ON 24JAM🚀*
+*📛ON TANPA WIFI/KUOTA JADI ON SELALU TANPA PUTUS KECUALI KENA KENON📛*
 
-┏━━━━━━
-┃𝗛𝗔𝗥𝗚𝗔 𝗦𝗘𝗪𝗔 :
-┃ *1 MINGGU : Rp 5.000*
-┃ *1 BULAN : Rp 15.000*
-┃ *PERMANEN : Rp 35.000*
-┗━━━━━━
-┏━━━━━━
-┃𝗙𝗜𝗧𝗨𝗥 𝗕𝗢𝗧 :
-┃ *⚔️ Antilink Group*
-┃ *👨‍🎨 Buat Stiker*
-┃ *📥 Downloader*
-┃ *Dll.*
-┗━━━━━━
+*ORDER?WA*
+Wa.me//6285803583481?text=Mau+sewa+bott
 
-*SISTEM: TES BOT-MASUKIN BOT-TF-DONE*
+~©CREATOR BETA BOTZ~
+*COPY LIST GAPAPA KAN CUMA COPYY🗿🤙🏻*
 
-*MINAT? CHAT :
-wa.me/6285609233482
+
+*OPEN PEMBUATAN BOT WHATSAPP*
+
+*│• NOTE:WAJIB ADA AKUN*
+*│• GITHUB&HEROKU*
+*│• HARGA?15K*
+*╰────*
+*╭─ [ KELEBIHAN BOT ]*
+*│• FAST RESPON*
+*│• MENU GG*
+*│• ANTILINK, WELCOME ON,*   
+*│•DLL*
+*╰────*
+*╭─[ KEUNTUNGAN ]*
+*│• ANTI LINK ( AUTO KICK )*
+*│• WELCOME OTOMATIS*
+*│• BUAT STIKER*
+*│• PERINTAH ADMIN*
+*│• DLL, FITUR GG🥵*
+*╰────*
+
+_*📍 MINAT?*_
+_*CHAT :*085803583481(Lann)*
 `
 }
